@@ -33,7 +33,7 @@ router.get('/:id', async (req, res) => {
     });
 
     if (!categoriesData) {
-      res.status(404).json({message: "Categories with that id is not found"});
+      res.status(404).json({message: "No categories with this id found"});
       return;
     }
 
@@ -79,7 +79,7 @@ router.delete('/:id', async (req, res) => {
       }
     })
     if (!categoriesData) {
-      res.status(404).json({message: "No Categories found with this id"});
+      res.status(404).json({message: "No categories with this id found"});
       return;
     }
     res.status(200).json(categoriesData);
