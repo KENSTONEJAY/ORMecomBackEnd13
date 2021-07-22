@@ -9,7 +9,7 @@ The back end for an e-commerce site by modifying starter code
 * [Installation](#installation)
 * [Usage](#usage)
 * [Walkthrough](#walkthrough)
-* [Comments](#comments)
+
 
 ## Installation 
 * 1 Clone the repository onto your local machine and follow usage instructions 
@@ -22,4 +22,5 @@ The back end for an e-commerce site by modifying starter code
 * 4 Run the command "npm start" in your terminal
 * 5 Type the following along with the route name into Insomnia to try out the featuresof the application
 
-##
+## Walkthrough 
+Please follow the link to the walkthrough
