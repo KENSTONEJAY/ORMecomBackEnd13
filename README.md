@@ -23,4 +23,4 @@ The back end for an e-commerce site by modifying starter code
 * 5 Type the following along with the route name into Insomnia to try out the featuresof the application
 
 ## Walkthrough 
-Please follow the link to the walkthrough
+Please follow the link to the walkthrough https://www.youtube.com/watch?v=8H5QTkAZBwQ
